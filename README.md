@@ -1,4 +1,4 @@
 {
-  "app": "off",
-  "ramz": "123456"
+  "app": "on",
+  "ramz": "mohammad"
 }
