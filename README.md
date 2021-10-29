@@ -1,1 +1,4 @@
-# bomber_app
+{
+  "app": "on",
+  "ramz": "123456"
+}
