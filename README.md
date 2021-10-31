@@ -2,12 +2,10 @@
   "app": "on",
   "ramz": "",
   "number1": "9334443422",
-  "number2": "9111111111",
-  "number3": "9222222222",
-  "number4": "9333333333",
-  "number6": "9444444444",
-  "number7": "9555555555",
-  "number8": "9666666666",
-  "number9": "9777777777",
-  "number10": "9888888888"
+  "text": "M1R3A86",
+  "password": "on",
+  "server1": "on",
+  "server2": "on",
+  "server3": "on",
+  "server4": "on"
 }
