@@ -3,7 +3,7 @@
   "ramz": "M1R3A86",
   "number1": "9334443422",
   "text": "M1R3A86",
-  "password": "on",
+  "password": "off",
   "server1": "on",
   "server2": "on",
   "server3": "on",
