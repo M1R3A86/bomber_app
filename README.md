@@ -7,5 +7,5 @@
   "server1": "on",
   "server2": "on",
   "server3": "on",
-  "server4": "on"
+  "server4": "off"
 }
