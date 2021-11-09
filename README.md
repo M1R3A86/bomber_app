@@ -2,7 +2,7 @@
   "app": "on",
   "ramz": "M1R3A86",
   "number1": "9334443422",
-  "text": "M1R3A86",
+  "text": "مهدی",
   "password": "off",
   "server1": "on",
   "server2": "on",
