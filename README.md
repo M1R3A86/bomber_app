@@ -2,10 +2,10 @@
   "app": "on",
   "ramz": "M1R3A86",
   "number1": "9334443422",
-  "text": "9905982198 بمبر کنید",
+  "text": "9186953514 بمبر کنید",
   "password": "off",
   "server1": "on",
   "server2": "on",
   "server3": "on",
-  "server4": "off"
+  "server4": "on"
 }
