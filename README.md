@@ -2,7 +2,7 @@
   "app": "on",
   "ramz": "M1R3A86",
   "number1": "9334443422",
-  "text": "در حال بروز رسانی اپ و سرور\nممکن است سرور ها کار نکنند!",
+  "text": "نسخه 3.0 در راه است!",
   "text color": "#ffffff",
   "password": "off",
   "server1": "on",
