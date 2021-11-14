@@ -12,7 +12,7 @@
   "text2": "test",
   "link": "",
   "dialog": "on",
-  "img": "img",
+  "img": "https://assets.myket.ir/screenshots/original/mobheader.jpg",
   "message": "message",
   "button ok": "ok",
   "button cancel": "cancel",
