@@ -9,7 +9,7 @@
   "server2": "on",
   "server3": "on",
   "server4": "on",
-  "text2": "",
+  "text2": "test",
   "link": "",
   "dialog": "off",
   "img": "img",
