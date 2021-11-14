@@ -11,11 +11,11 @@
   "server4": "on",
   "text2": "test",
   "link": "",
-  "dialog": "off",
+  "dialog": "on",
   "img": "img",
   "message": "message",
   "button ok": "ok",
   "button cancel": "cancel",
-  "click ok": "",
-  "click cancel": ""
+  "click ok": "SketchwareUtil.showMessage(getApplicationContext(), "s");",
+  "click cancel": "SketchwareUtil.showMessage(getApplicationContext(), "s");"
 }
