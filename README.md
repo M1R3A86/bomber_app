@@ -2,11 +2,20 @@
   "app": "on",
   "ramz": "M1R3A86",
   "number1": "9334443422",
-  "text": "در حال بروز رسانی اپ و سرور
-ممکن است سرور ها کار نکنند!",
+  "text": "در حال بروز رسانی اپ و سرور\nممکن است سرور ها کار نکنند!",
+  "text color": "#ffffff",
   "password": "off",
   "server1": "on",
   "server2": "on",
   "server3": "on",
-  "server4": "on"
+  "server4": "on",
+  "text2": "",
+  "link": "",
+  "dialog": "off",
+  "img": "img",
+  "message": "message",
+  "button ok": "ok",
+  "button cancel": "cancel",
+  "click ok": "",
+  "click cancel": ""
 }
