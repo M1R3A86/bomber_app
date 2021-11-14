@@ -9,13 +9,6 @@
   "server2": "on",
   "server3": "on",
   "server4": "on",
-  "text2": "test",
-  "link": "",
-  "dialog": "on",
-  "img": "https://assets.myket.ir/screenshots/original/mobheader.jpg",
-  "message": "message",
-  "button ok": "ok",
-  "button cancel": "cancel",
-  "click ok": "SketchwareUtil.showMessage(getApplicationContext(), "s");",
-  "click cancel": "SketchwareUtil.showMessage(getApplicationContext(), "s");"
+  "text 2": "test",
+  "link": ""
 }
