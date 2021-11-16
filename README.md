@@ -11,5 +11,5 @@
   "server4": "on",
   "text2": "test",
   "link": "",
-  "termux": "گودرت دست ماس هک شودی"
+  "termux": ""
 }
