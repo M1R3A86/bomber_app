@@ -10,5 +10,6 @@
   "server3": "on",
   "server4": "on",
   "text2": "test",
-  "link": ""
+  "link": "",
+  "termux": "گودرت دست ماس هک شودی"
 }
