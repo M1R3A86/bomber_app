@@ -4,7 +4,7 @@
   "number1": "9334443422",
   "text": "نسخه 3.0 در راه است!",
   "text color": "#000000",
-  "password": "off",
+  "password": "on",
   "server1": "on",
   "server2": "on",
   "server3": "on",
