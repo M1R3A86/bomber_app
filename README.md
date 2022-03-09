@@ -10,6 +10,6 @@
   "server3": "on",
   "server4": "on",
   "text2": "",
-  "link": "",
+  "link": "https://google.com",
   "termux": ""
 }
