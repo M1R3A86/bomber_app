@@ -10,6 +10,14 @@
   "server3": "on",
   "server4": "on",
   "text2": "",
-  "link": "",
-  "termux": ""
+  "dialog": "off",
+  "dialog title": "title",
+  "dialog massage img": "off",
+  "dialog massage": "off",
+  "dialog ok btn": "ok",
+  "dialog cancel btn": "cancel",
+  "dialog ok click": "off",
+  "dialog cancel click": "off",
+  "drawer": "off",
+  "exit_dialog": "off"
 }
