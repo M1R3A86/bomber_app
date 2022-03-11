@@ -1,6 +1,6 @@
 {
 
-  "dialog": "on",
+  "dialog": "off",
 
   "dialog title": "TITLE",
 
