@@ -4,7 +4,7 @@
 
   "dialog title": "TITLE",
 
-  "dialog img": "off",
+  "dialog img": "https://ahmadasplus8416.nasihosting.com/file/Screenshot_2022-03-06-23-08-05-841_com.mi.android.globallauncher.jpg",
 
   "dialog massage": "MASSAGE",
 
