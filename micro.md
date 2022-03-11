@@ -4,7 +4,7 @@
 
   "dialog title": "TITLE",
 
-  "dialog img": "https://ahmadasplus8416.nasihosting.com/file/Screenshot_2022-03-06-23-08-05-841_com.mi.android.globallauncher.jpg",
+  "dialog img": "https://ahmadasplus8416.nasihosting.com/file/1646984841073.png",
 
   "dialog massage": "MASSAGE",
 
@@ -12,9 +12,9 @@
 
   "dialog cancel": "CANCEL",
 
-  "dialog ok click-intent": "off",
+  "dialog ok click-intent": "myket://comment?id=NIX.SORA.Editor",
 
-  "dialog ok click-massage": "mm",
+  "dialog ok click-massage": "off",
 
   "dialog ok click-link": "off"
 
