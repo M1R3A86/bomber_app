@@ -1,10 +1,10 @@
 {
 
-  "dialog": "off",
+  "dialog": "on",
 
   "dialog title": "TITLE",
 
-  "dialog img": "IMG",
+  "dialog img": "off",
 
   "dialog massage": "MASSAGE",
 
@@ -14,7 +14,7 @@
 
   "dialog ok click-intent": "off",
 
-  "dialog ok click-massage": "off",
+  "dialog ok click-massage": "mm",
 
   "dialog ok click-link": "off"
 
