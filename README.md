@@ -11,7 +11,7 @@
   "server4": "on",
   "text2": "",
   "link": "",
-  "dialog": "off",
+  "dialog": "on",
   "dialog_title": "title",
   "dialog_massage_img": "off",
   "dialog_massage": "off",
