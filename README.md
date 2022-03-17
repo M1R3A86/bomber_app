@@ -11,7 +11,7 @@
   "server4": "on",
   "text2": "",
   "link": "",
-  "dialog": "on",
+  "dialog": "off",
   "dialog_title": "title",
   "dialog_massage_img": "off",
   "dialog_massage": "off",
@@ -19,6 +19,6 @@
   "dialog_cancel_btn": "cancel",
   "dialog_ok_click": "off",
   "dialog_cancel_click": "off",
-  "drawer": "off",
+  "drawer": "on",
   "exit_dialog": "off"
 }
