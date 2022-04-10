@@ -18,7 +18,7 @@
   "dialog_ok_btn": "ok",
   "dialog_cancel_btn": "cancel",
   "dialog_ok_click": "off",
-  "dialog_cancel_click": "off",
+  "dialog_cancel_click": "on",
   "drawer": "on",
   "exit_dialog": "off"
 }
