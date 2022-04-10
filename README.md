@@ -11,14 +11,14 @@
   "server4": "on",
   "text2": "",
   "link": "",
-  "dialog": "off",
-  "dialog_title": "title",
-  "dialog_massage_img": "off",
-  "dialog_massage": "off",
+  "dialog": "on",
+  "dialog_title": "M1R3A86",
+  "dialog_massage_img": "https://www.bleepstatic.com/content/hl-images/2021/07/07/Android-headpic.jpg",
+  "dialog_massage": "نسخه جدید برنامه در راه است",
   "dialog_ok_btn": "ok",
   "dialog_cancel_btn": "cancel",
   "dialog_ok_click": "off",
   "dialog_cancel_click": "off",
   "drawer": "on",
-  "exit_dialog": "off"
+  "exit_dialog": "on"
 }
