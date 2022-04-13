@@ -11,7 +11,7 @@
   "server4": "on",
   "text2": "نسخه جدید در راه است",
   "link": "",
-  "dialog": "on",
+  "dialog": "off",
   "dialog_title": "M1R3A86",
   "dialog_massage_img": "https://www.bleepstatic.com/content/hl-images/2021/07/07/Android-headpic.jpg",
   "dialog_massage": "نسخه جدید برنامه در راه است
