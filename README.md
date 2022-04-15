@@ -9,6 +9,7 @@
   "server2": "on",
   "server3": "on",
   "server4": "on",
+  "server5": "on",
   "text2": "نسخه جدید در راه است",
   "link": "",
   "dialog": "off",
