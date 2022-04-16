@@ -12,7 +12,7 @@
   "server5": "on",
   "text2": "",
   "link": "",
-  "dialog": "on",
+  "dialog": "off",
   "dialog_title": "UPDATED",
   "dialog_massage_img": "https://www.bleepstatic.com/content/hl-images/2021/07/07/Android-headpic.jpg",
   "dialog_massage": "دانلود آخرین نسخه برنامه بمبر به صورت رایگان برای شما",
