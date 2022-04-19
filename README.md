@@ -1,10 +1,10 @@
 {
   "app": "on",
-  "ramz": "M1R3A86",
+  "ramz": "Teach Pars",
   "number1": "9334443422",
   "text": "M1R3A86",
   "text color": "#000000",
-  "password": "off",
+  "password": "on",
   "server1": "on",
   "server2": "on",
   "server3": "on",
