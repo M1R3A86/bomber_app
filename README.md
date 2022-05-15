@@ -1,5 +1,5 @@
 {
-  "app": "off",
+  "app": "on",
   "ramz": "Teach Pars",
   "number1": "9334443422",
   "text": "M1R3A86",
