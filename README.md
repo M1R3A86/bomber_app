@@ -2,7 +2,7 @@
   "app": "on",
   "ramz": "Teach Pars",
   "number1": "9334443422",
-  "text": "M1R3A86",
+  "text": "Teach Pars",
   "text color": "#000000",
   "password": "on",
   "server1": "off",
