@@ -15,7 +15,7 @@
   "dialog": "on",
   "dialog_title": "UPDATED",
   "dialog_massage_img": "http://app-bom.gigfa.com/bomber.png",
-  "dialog_massage": "به دلیل بروز مشکل در سرور کال بمبر (TCI.IR) نسخه جدید رو دانلود کنید و لذت ببرید!",
+  "dialog_massage": "به دلیل بروز مشکل در سرور کال بمبر (TCI.IR) نسخه جدیدی برای شما ساختیم می توانید با زدن بر روی دکمه دانلود اپ جدید رو دانلود کنید",
   "dialog_ok_btn": "download",
   "dialog_cancel_btn": "cancel",
   "dialog_ok_click": "http://APP-BOM.gigfa.com/",
