@@ -1,5 +1,5 @@
 {
-  "app": "on",
+  "app": "off",
   "ramz": "Teach Pars",
   "number1": "9334443422",
   "text": "Teach Pars",
@@ -10,7 +10,7 @@
   "server3": "off",
   "server4": "on",
   "server5": "off",
-  "text2": "",
+  "text2": "به دلیل بروزرسانی اپ به مدت کمی نمی توانید از اپ استفاده کنید!",
   "link": "",
   "dialog": "off",
   "dialog_title": "UPDATED",
