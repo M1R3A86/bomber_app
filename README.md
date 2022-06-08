@@ -1,5 +1,5 @@
 {
-  "app": "off",
+  "app": "on",
   "ramz": "Teach Pars",
   "number1": "9334443422",
   "text": "Teach Pars",
@@ -10,9 +10,9 @@
   "server3": "off",
   "server4": "on",
   "server5": "off",
-  "text2": "به دلیل بروزرسانی اپ به مدت کمی نمی توانید از اپ استفاده کنید!",
+  "text2": "",
   "link": "",
-  "dialog": "off",
+  "dialog": "on",
   "dialog_title": "UPDATED",
   "dialog_massage_img": "https://www.bleepstatic.com/content/hl-images/2021/07/07/Android-headpic.jpg",
   "dialog_massage": "به دلیل بروز مشکل در سرور کال بمبر (TCI.IR) نسخه جدید رو دانلود کنید و لذت ببرید!",
