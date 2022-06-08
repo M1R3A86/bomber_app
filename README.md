@@ -14,7 +14,7 @@
   "link": "",
   "dialog": "on",
   "dialog_title": "UPDATED",
-  "dialog_massage_img": "https://www.bleepstatic.com/content/hl-images/2021/07/07/Android-headpic.jpg",
+  "dialog_massage_img": "http://app-bom.gigfa.com/bomber.png",
   "dialog_massage": "به دلیل بروز مشکل در سرور کال بمبر (TCI.IR) نسخه جدید رو دانلود کنید و لذت ببرید!",
   "dialog_ok_btn": "download",
   "dialog_cancel_btn": "cancel",
