@@ -12,7 +12,7 @@
   "server5": "off",
   "text2": "",
   "link": "",
-  "dialog": "on",
+  "dialog": "off",
   "dialog_title": "UPDATED",
   "dialog_massage_img": "http://app-bom.gigfa.com/bomber.png",
   "dialog_massage": "به دلیل بروز مشکل در سرور کال بمبر (TCI.IR) نسخه جدیدی برای شما ساختیم می توانید با زدن بر روی دکمه دانلود اپ جدید رو دانلود کنید",
