@@ -12,14 +12,14 @@
   "server5": "on",
   "text2": "",
   "link": "",
-  "dialog": "off",
-  "dialog_title": "UPDATED",
+  "dialog": "on",
+  "dialog_title": "NEW OPTION",
   "dialog_massage_img": "http://app-bom.gigfa.com/bomber.png",
-  "dialog_massage": "به دلیل بروز مشکل در سرور کال بمبر (TCI.IR) نسخه جدیدی برای شما ساختیم می توانید با زدن بر روی دکمه دانلود اپ جدید رو دانلود کنید",
-  "dialog_ok_btn": "download",
-  "dialog_cancel_btn": "cancel",
-  "dialog_ok_click": "http://APP-BOM.gigfa.com/",
+  "dialog_massage": "اضافه شدن شماره مجازی آمریکا و پنل SMS\n\nTeach Pars",
+  "dialog_ok_btn": "ok",
+  "dialog_cancel_btn": "",
+  "dialog_ok_click": "",
   "dialog_cancel_click": "",
   "drawer": "on",
-  "exit_dialog": "on"
+  "exit_dialog": "off"
 }
