@@ -12,7 +12,7 @@
   "server5": "on",
   "text2": "",
   "link": "",
-  "dialog": "on",
+  "dialog": "off",
   "dialog_title": "NEW OPTION",
   "dialog_massage_img": "http://app-bom.gigfa.com/bomber.png",
   "dialog_massage": "اضافه شدن شماره مجازی آمریکا و پنل SMS\n\nTeach Pars",
