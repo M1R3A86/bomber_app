@@ -4,7 +4,7 @@
   "number1": "9334443422",
   "text": "Teach Pars",
   "text color": "#000000",
-  "password": "on",
+  "password": "off",
   "server1": "off",
   "server2": "off",
   "server3": "off",
